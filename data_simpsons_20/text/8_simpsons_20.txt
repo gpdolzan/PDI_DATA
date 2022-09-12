@@ -1,0 +1,22 @@
+-------------------- RESULTADO PROGRAMA --------------------
+Patience 5 - KNN = 1 - Sem Treino:    0,2830
+Patience 5 - KNN = 3 - Sem Treino:    0,3868
+Patience 5 - KNN = 1 - Treino Denso:  0,5943
+Patience 5 - KNN = 3 - Treino Denso:  0,5943
+Patience 5 - KNN = 1 - Melhoria:      0,3113
+Patience 5 - KNN = 3 - Melhoria:      0,2075
+
+Patience 10 - KNN = 1 - Sem Treino:   0,3868
+Patience 10 - KNN = 3 - Sem Treino:   0,4151
+Patience 10 - KNN = 1 - Treino Denso: 0,5943
+Patience 10 - KNN = 3 - Treino Denso: 0,6132
+Patience 10 - KNN = 1 - Melhoria:     0,2075
+Patience 10 - KNN = 3 - Melhoria:     0,1981
+
+Patience 15 - KNN = 1 - Sem Treino:   0,2830
+Patience 15 - KNN = 3 - Sem Treino:   0,3679
+Patience 15 - KNN = 1 - Treino Denso: 0,7358
+Patience 15 - KNN = 3 - Treino Denso: 0,6981
+Patience 15 - KNN = 1 - Melhoria:     0,4528
+Patience 15 - KNN = 3 - Melhoria:     0,3302
+
